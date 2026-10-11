@@ -1,0 +1,16 @@
+export const students = [
+  { id: 101, rollNumber: "IT2301", name: "Arjun Kumar", department: "IT", year: "3rd Year", email: "arjun.kumar@college.edu", phone: "+91 98765 43210", about: "An enthusiastic learner interested in full-stack development, clean interfaces, and solving practical problems." },
+  { id: 102, rollNumber: "CSE2302", name: "Meera Krishnan", department: "CSE", year: "3rd Year", email: "meera.krishnan@college.edu", phone: "+91 98765 43211", about: "Enjoys exploring algorithms, building useful applications, and collaborating on creative technology projects." },
+  { id: 103, rollNumber: "ECE2303", name: "Vikram Raj", department: "ECE", year: "3rd Year", email: "vikram.raj@college.edu", phone: "+91 98765 43212", about: "Interested in embedded systems, electronics, and the connection between hardware and software." },
+  { id: 104, rollNumber: "MECH2304", name: "Ananya S", department: "MECH", year: "3rd Year", email: "ananya.s@college.edu", phone: "+91 98765 43213", about: "A curious designer and problem-solver who likes product design, CAD, and sustainable engineering." },
+  { id: 105, rollNumber: "CIVIL2305", name: "Nithin Prakash", department: "CIVIL", year: "3rd Year", email: "nithin.prakash@college.edu", phone: "+91 98765 43214", about: "Focused on modern construction methods, structural design, and creating better community spaces." },
+  { id: 106, rollNumber: "CSE2306", name: "Priya Dharshini", department: "CSE", year: "3rd Year", email: "priya.dharshini@college.edu", phone: "+91 98765 43215", about: "Loves UI engineering, accessible web experiences, and turning ideas into polished products." },
+  { id: 107, rollNumber: "IT2307", name: "Rahul Dev", department: "IT", year: "2nd Year", email: "rahul.dev@college.edu", phone: "+91 98765 43216", about: "Learning cloud fundamentals and JavaScript while building small projects to strengthen his skills." },
+  { id: 108, rollNumber: "ECE2308", name: "Divya Lakshmi", department: "ECE", year: "2nd Year", email: "divya.lakshmi@college.edu", phone: "+91 98765 43217", about: "Interested in communication systems, robotics, and practical applications of machine learning." },
+  { id: 109, rollNumber: "MECH2309", name: "Karthik M", department: "MECH", year: "4th Year", email: "karthik.m@college.edu", phone: "+91 98765 43218", about: "Enjoys prototyping, manufacturing concepts, and building things that solve everyday challenges." },
+  { id: 110, rollNumber: "CSE2310", name: "Sanjana R", department: "CSE", year: "4th Year", email: "sanjana.r@college.edu", phone: "+91 98765 43219", about: "A software enthusiast exploring data structures, web development, and collaborative open-source work." },
+  { id: 111, rollNumber: "CIVIL2311", name: "Mohammed Azeem", department: "CIVIL", year: "2nd Year", email: "azeem@college.edu", phone: "+91 98765 43220", about: "Interested in sustainable cities, planning, and technology that improves public infrastructure." },
+  { id: 112, rollNumber: "IT2312", name: "Harini V", department: "IT", year: "4th Year", email: "harini.v@college.edu", phone: "+91 98765 43221", about: "Enjoys product thinking, database design, and creating friendly experiences for everyday users." }
+];
+
+export const departments = ["All Departments", "CSE", "IT", "ECE", "MECH", "CIVIL"];
